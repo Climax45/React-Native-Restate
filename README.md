@@ -1,8 +1,7 @@
 <div align="center">
   <br />
     
-      <img src="https://github.com/user-attachments/assets/baed953f-81fd-4ed2-bfb9-fcbd1b80859b" alt="Project Banner">
-    </a>
+    
   <br />
   <div>
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="expo" />
